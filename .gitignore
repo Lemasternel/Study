@@ -1,0 +1,6 @@
+*.exe
+*.exp
+*.lib
+CLAUDE.md
+
+.build/
