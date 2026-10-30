@@ -1,6 +1,6 @@
 *.exe
 *.exp
+*.pdb
 *.lib
-CLAUDE.md
 
 .build/
